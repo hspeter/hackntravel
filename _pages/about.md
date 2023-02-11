@@ -1,17 +1,25 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/aboutus/h&s_palawan.png'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+We are digital nomads that have been on the road since January 2021. We both work on a daily basis with two screens and love to cook. Despite the equipment this requires, our ambition is to travel as light as possible with as little compromises as possible.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+We both have one carry-on sized backpack, <10kg each.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+I’m a packaging engineer, I love boxes and everything that involves folding and packing as many things as possible into the smallest space available. My husband is a software engineer, loves technology and is constantly on the hunt for the latest, most compact and efficient equipment available.
 
-<div class="gallery-box">
+Over the past few years we have collected many wonderful gadgets, tools and equipment that keep us sane and happy while constantly living in new places.
+
+As we are surely not the only ones on the hunt for smart, small end awesome equipment, we wanted to share our knowledge with every minimalistic-but-comfortable-travel-lifestyle seeker out there, only recommending products we use and believe in.
+
+We hope you’ll find what you are looking for and safe travels always <3
+
+Santy & Henny
+
+<!--<div class="gallery-box">
   <div class="gallery">
     <img src="/images/102.jpg">
     <img src="/images/105.jpg">
@@ -32,4 +40,4 @@ Globally incubate standards compliant channels before scalable benefits. Quickly
 
 Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
 
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
+Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.-->

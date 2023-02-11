@@ -13,14 +13,14 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Henriette
   author__bio: Develops packaging, crafts, cooks and curates awesome gear and gadgets to hack nomadic travel.
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/aboutus/henny.png'
 
-social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-youtube", link: "https://youtube.com"}
+#social:
+#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+#- {icon: "ion-logo-facebook", link: "https://facebook.com"}
+#- {icon: "ion-logo-instagram", link: "https://instagram.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion-logo-youtube", link: "https://youtube.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -31,7 +31,7 @@ social:
 hero:
   hero__title: Hey, I’m Henriette
   hero__description: Develops packaging, crafts, cooks and curates awesome gear and gadgets to hack nomadic travel.
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/S&H-home.jpg'
 
 
 #-------------------------------
@@ -72,7 +72,7 @@ gallery:
 # Contact Settings
 contact:
   email: henriette@artineering.io # Add your email for contant form
-  description: Menso comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  description: Hi there, I'm looking forward to hearing from you. # Add a description of your form
 
 # NOTE
 # Menso theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -85,7 +85,7 @@ disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For examp
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: G-VT1DQX3PR1 # Add your GA Tracking Id
 google-analytics-anonymize: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 
