@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
-image: '/images/aboutus/h&s_palawan.png'
+image: '/images/aboutus/hands_palawan.png'
 ---
 
 We are digital nomads that have been on the road since January 2021. We both work on a daily basis with two screens and love to cook. Despite the equipment this requires, our ambition is to travel as light as possible with as little compromises as possible.
