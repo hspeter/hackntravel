@@ -3,7 +3,7 @@ layout: post
 title:  Crush darkness with the ultimate light hack
 description: Need a bed side light, tent light, blackout light weighing less than 100g that charges with solar?
 date:   2023-02-04 15:01:35 +0300
-image:  '/images/products/crush-light_01.png'
+image:  '/images/products/crush-light-01.png'
 tags:   [less-than-25, camping, electronics]
 ---
 
@@ -15,7 +15,7 @@ Sure, we could use our smartphones as torches, but that's just not the same if y
 
 Entering, the crush light!
 
-![Crush Light]({{site.baseurl}}/images/products/crush-light_02.png)
+![Crush Light]({{site.baseurl}}/images/products/crush-light-02.png)
 *Crush Light opened and closed - Photo by Goal Zero*
 
 This light can be easily expanded to a proper standing lantern. Furthermore, it has three levels of intensity and if you hold the on button for a few seconds, the candlelight mode is activated and the lamp starts flickering nicely. Aside from that, the handle can be detached, so that it can be hung inside a tent or on any other place. Once used, the lamp can be crushed into its original flat shape. It can be charged either through the solar panels at the top or through USB.

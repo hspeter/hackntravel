@@ -13,7 +13,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 author:
   author__name: Henriette
   author__bio: Develops packaging, crafts, cooks and curates awesome gear and gadgets to hack nomadic travel.
-  author__avatar: '/images/aboutus/henny.png'
+  author__avatar: '/images/aboutus/henny_.png'
 
 #social:
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -31,7 +31,7 @@ author:
 hero:
   hero__title: Hey, I’m Henriette
   hero__description: Develops packaging, crafts, cooks and curates awesome gear and gadgets to hack nomadic travel.
-  hero__image: '/images/S&H-home.jpg'
+  hero__image: '/images/s&h-home.jpg'
 
 
 #-------------------------------
@@ -86,7 +86,7 @@ disqus-identifier: demo-menca # Add your shortname for Disqus Comment. For examp
 #-------------------------------
 # Google Analytics
 google-analytics: G-VT1DQX3PR1 # Add your GA Tracking Id
-google-analytics-anonymize: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+google-analytics-anonymize: true #  Use GDPR compliant Google Analytics settings (true/nil by default)
 
 
 #-------------------------------
